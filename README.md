@@ -18,7 +18,7 @@ pages](https://help.github.com/) are also very good.
 * [How do I commit my edits?](#committing)
 * [I "git pulled" and now I have a conflict. What do I do next?](#conflicts)
 * [I want to delete a file. How do I do that?](#deleting)
-* [I made some edits that I don't like and want to go back to the original file. What do I do?](#reverting)
+* [I made some edits that I don't like and want to go back to the original file. What do I do?](#undoing)
 * [What's the best way to make a new repository?](#starting)
 * [How do I push and pull without having to type my password all the time?](#passwords)
 * [What is a GitHub "issue"?](#issuing)
